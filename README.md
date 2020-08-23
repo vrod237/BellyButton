@@ -9,7 +9,7 @@
 
 
 ## Resources
-- Data Source: [UFO Sightings Data](https://github.com/vrod237/UFOs/blob/master/static/js/data.js)
+- Data Source: [BellyButton Sample Info](https://github.com/vrod237/BellyButton/blob/master/samples.json)
 - Software: Visual Studio Code, 1.38.1, JavaScript, HTML5, CSS & D3.js
 
 ## Summary
