@@ -1,0 +1,17 @@
+.panel{
+    width: 210px; 
+}
+
+.well{
+    width: 210px; 
+}
+
+#bar{
+    margin-left:25px;
+}
+
+#gauge{
+    margin-left: 250px;
+    margin-right: 100px;
+}
+
