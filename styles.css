@@ -6,11 +6,12 @@
     width: 210px; 
 }
 
-.bar{
-    margin-left: 50px;
+#bar{
+    margin-left:25px;
 }
 
-.gauge{
-    margin-left: 0px;
+#gauge{
+    margin-left: 250px;
     margin-right: 100px;
 }
+
