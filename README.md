@@ -15,8 +15,10 @@
 ## Summary
 
 
-- Access BellyButton Analysis website <a href="https://vrod237.github.io/UFOs/">here</a>
+- Access BellyButton Analysis website <a href="https://vrod237.github.io/BellyButton/">here</a>
 
-- 
+- The Demographic Info lists the ID number, ethnicity, gender, age, location, bbtype and belly button wash frequency per week. 
 
-- 
+- The Bar Chart lists the top 10 OTUs found in the individual based off the ID number selected in the Test Subject ID No.
+
+- The Bubble Chart displays the relative frequency of all bacterial species found in a volunteer's navel, based off their ID number.
