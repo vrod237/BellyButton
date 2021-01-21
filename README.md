@@ -1,5 +1,9 @@
 # BellyButton
 
+## Purpose
+
+The purpose of this project is to create a website that displayed charts that changed based on the input selected. The site will display the bacteria found in each participant's belly button. These bacteria are being studied as a means to create synthetic meat.
+
 ## Project Overview
 
 - Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
